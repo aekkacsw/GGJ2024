@@ -1,0 +1,4 @@
+repository "GGJ2024@monogeneous_uvc@cloud"
+  path "/"
+    smartbranch "/main"          
+     
